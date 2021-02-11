@@ -31,6 +31,7 @@ public class Ejercicio_4_14 {
 		}
 	}
 	public static void visualizarArray(int[] Array) {
+		
 		int posicion;
 		Scanner teclado=new Scanner(System.in);
 		System.out.print("Introduzca la posición del vector (0-9): ");
